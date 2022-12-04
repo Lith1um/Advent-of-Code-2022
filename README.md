@@ -4,6 +4,6 @@
   <p align="center">
     Solutions to the advent of code 2022 written in Javascript
     <br />
-    <a href="https://adventofcode.com/"><strong>Check out the Advent of Code for your self »</strong></a>
+    <a href="https://adventofcode.com/"><strong>Check out the Advent of Code for yourself »</strong></a>
   </p>
 </div>
